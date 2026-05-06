@@ -24,3 +24,5 @@ pip install pygame
 ...
 
 More instructions to come!
+
+https://coderslegacy.com/python/python-pygame-tutorial/
